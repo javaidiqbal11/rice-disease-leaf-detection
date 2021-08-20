@@ -1,6 +1,7 @@
-# rice-disease-leaf-detection
-Download the dataset from the given drive link: <br>
+# rice-disease-leaf-detection <br>
+We used open source dataset from kaggle and there are labeled data with four classes, <br> named Healthy, BrownSpot, Hispa, and LeafBlast. <br>
+Download the dataset from the given kaggle link: <br>
 
-[Dataset Drive](https://drive.google.com/drive/folders/1CT65laxwbSeZMO7AJwXr8SkvD-2-87P-?usp=sharing )
+[Kaggle Dataset](https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset)
 
 
